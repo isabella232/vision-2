@@ -4,8 +4,7 @@ import warnings
 from typing import Any, Optional, Sequence
 
 import numpy as np
-from numpy import sin, cos, tan
-from PIL import Image, ImageOps, ImageEnhance
+from PIL import Image
 
 import torch
 from torch import Tensor
